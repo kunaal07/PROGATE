@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>LET'S CODE!!!</title>
+
+    <link rel="stylesheet" href="./styles2.css"/>
+  </head>
+
+  <body>
+    <div class="panels">
+      <div class="panel one">
+        <header class="title"></header>
+        <span class="highlight"><font color="black">C/C++💻</font></span>
+        <ul class="details">
+          <li class="item"><font color="black">C is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of C language include low-level access to memory.Many later languages have borrowed syntax/features directly or indirectly from C language. Like syntax of Java, PHP, JavaScript, and many other languages are mainly based on C language. C++ is nearly a superset of C language (There are few programs that may compile in C, but not in C++).</font></li>
+        </ul>
+      </div>
+      
+      <div class="panel two">
+        <header class="title"></header>
+        <span class="highlight"><font color="red">PYTHON💻</font></span>
+        <ul class="details">
+          <li class="item"><font color="red">Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.</font></li>
+        </ul>
+      </div>
+
+      <div class="panel three">
+        <header class="title"></header>
+        <span class="highlight"><font color="#008000">JAVA💻</font></span>
+        <ul class="details">
+          <li class="item"><font color="#008000">Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA),[15] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. </font></li>
+        </ul>
+      </div>
+
+      <div class="panel four">
+        <header class="title"></header>
+        <span class="highlight"><font color="#0000b3">HTML💻</font></span>
+        <ul class="details">
+          <li class="item"><font color="#0000b3">Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.HTML elements are the building blocks of HTML pages.</font></li>
+        </ul>
+      </div>
+        
+      <div class="panel five">
+        <header class="title"></header>
+        <span class="highlight developer"><font color="black">CSS/JAVASCRIPT💻</font></span>
+        <span class="highlight sm-highlight">REPEAT</span>
+         <ul class="details">
+          <li class="item"><font color="black">JavaScript often abbreviated as JS, is an interpreted programming language that conforms to the ECMAScript specification.[7] JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML.[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.</font></li>
+        </ul>
+      </div>
+    </div>
+    <script src="./scripts2.js"></script>
+  </body>
+    </html><!DOCTYPE html>

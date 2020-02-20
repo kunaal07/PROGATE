@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>LET'S INSPIRE CODERS!!</title>
+ <link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+</head>
+<body>
+
+<header class="site-header clearfix">
+ <nav>
+  <div class="logo">
+   <h1>HACKERJACKS</h1>
+  </div>
+  <div class="menu"> 
+   <ul><li><a href="HTML2.html"><button>COURCES</button></a></li>
+    <li><a href="https://www.geeksforgeeks.org/web-technology/html-css/"><button>HTML/CSS</button></a></li>
+     <li><a href="https://www.geeksforgeeks.org/javascript-tutorial/"><button>JavaScript</button></a></li>
+    <li><a href="https://facebook.com/"><button>Contact Us</button></a></li>
+   </ul>
+  </div>
+ </nav>
+ <section>
+  <div class="leftside"> 
+   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80">
+  </div>
+  <div class="rightside"> 
+   <h1>LET'S CODE!</h1>
+   <p>Coding is basically the computer language used to develop apps, websites and software. Without it, we’d have none of the major technology we’ve come to rely on such as Facebook, our smartphones, the browser we choose to view our favorite blogs or even the blogs themselves. It all runs on code.</p>
+   
+   <a href="https://progate.com/"><button>Welcome</button></a>
+  </div>
+  
+ </section>
+
+</header>
+
+
+</body>
+</html>
